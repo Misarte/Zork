@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  Character.cpp
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\character.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Exits.cpp
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\character.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Items.cpp
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\character.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\items.cpp(12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'String'
+  Main.cpp
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\character.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(52): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'String'
+  c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(52): note: this argument is used by a conversion specifier
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(52): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(52): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(52): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(52): note: this argument is used as a buffer size
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(53): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'String'
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(43): warning C4101: 'direction': unreferenced local variable
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(243): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'String'
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(243): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(243): note: placeholders and their parameters expect 1 variadic arguments, but 7 were provided
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(271): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\main.cpp(271): note: placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  String.cpp
+  World.cpp
+c:\users\artge\desktop\textbasedconsole4upc\textbasedconsole4upc\character.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  TextBasedConsole4UPC.vcxproj -> C:\Users\artge\Desktop\TextBasedConsole4UPC\Debug\TextBasedConsole4UPC.exe
